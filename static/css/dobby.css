@@ -1097,6 +1097,10 @@ kbd {
 	color: #9b9b9b;
 }
 
+.alpha-content .copyright .tags.float-left {
+	display:block!important
+}
+
 .alpha-content .author {
 	padding: 1.25rem;
 	border: 0.0625rem solid #e5e5e5;
