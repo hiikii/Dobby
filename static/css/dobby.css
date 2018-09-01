@@ -41,6 +41,7 @@
         url('../fonts/Gotham-Book.woff') format('woff'),
         url('../fonts/Gotham-Book.ttf') format('truetype'),
         url('../fonts/Gotham-Book.svg#webfont') format('svg');
+	font-display: swap
 }
 
 @font-face {
